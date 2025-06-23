@@ -1,0 +1,1 @@
+I'm Mahit Hazari. I've been a space exploration enthusiast ever since I was little and currently, I'm exploring the intersection of AI and the aerospace industry. My favourite open source project is the linux operating system. I hope to learn the whole bunch of tools required to build the projects I have planned through my journey in this club.
