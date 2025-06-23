@@ -1,4 +1,4 @@
-# Uday Kiran
+# ManneUday Kiran
 
 👨‍💻 **Background**:  
 I'm a passionate software developer and open-source enthusiast with a background in full-stack development and AI.
