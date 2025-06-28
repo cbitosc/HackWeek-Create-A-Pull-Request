@@ -1,5 +1,5 @@
 ### Polani Keerthi Varshini
-
+---
 **About Me**  
 I'm a Computer Science undergraduate passionate about AI, full-stack development, and building impactful, user-focused solutions. I love working on projects that combine creativity with technology, especially in areas like NLP and generative AI.
 
