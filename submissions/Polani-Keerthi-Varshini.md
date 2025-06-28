@@ -1,3 +1,10 @@
-Hi, I'm Polani Keerthi Varshini, Computer Science Engineering student from India with a strong passion for AI and full-stack development. I'm actively involved in various projects that combine generative AI with user-centric solutions — some examples include emotion-aware PDF readers and AI-powered news summarizers.
+### Polani Keerthi Varshini
 
-From this club, I hope to collaborate with like-minded peers, contribute to meaningful open-source projects, and deepen my understanding of AI systems, ethical development, and scalable software practices. I’m also eager to learn more about how real-world open-source communities function — from issue tracking to PR reviews and community standards.
+**About Me**  
+I'm a Computer Science undergraduate passionate about AI, full-stack development, and building impactful, user-focused solutions. I love working on projects that combine creativity with technology, especially in areas like NLP and generative AI.
+
+**Open Source Project I Admire**  
+Hugging Face Transformers – for democratizing access to state-of-the-art NLP models and fostering a collaborative open-source AI community.
+
+**What I Hope to Learn**  
+I want to improve my collaboration skills, gain hands-on experience with Git/GitHub workflows, and understand how large-scale open-source projects are built, maintained, and scaled.
